@@ -153,3 +153,5 @@ temp/
 .gyprc
 
 python
+
+.venv/
